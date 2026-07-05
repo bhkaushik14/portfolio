@@ -7,9 +7,7 @@ The portfolio presents projects across machine learning, accessibility, educatio
 
 ## Live Site
 
-Add your deployed website URL here after deploying:
-
-`https://your-portfolio-url.vercel.app`
+`https://bhavyakaushik.online`
 
 ## Featured Work
 
@@ -35,8 +33,6 @@ Add your deployed website URL here after deploying:
 - Drei
 - GSAP and ScrollTrigger
 - CSS
-
-All project visuals are stylized and generated with code. The site does not rely on external 3D models, CAD files, project photos, or videos.
 
 ## Running Locally
 
@@ -106,12 +102,4 @@ For Vercel:
 Bhavya Kaushik  
 Email: bhkaushik14@gmail.com  
 GitHub: [bhkaushik14](https://github.com/bhkaushik14)
-```
-
-Then commit it:
-
-```powershell
-git add README.md
-git commit -m "Add project README"
-git push
 ```
